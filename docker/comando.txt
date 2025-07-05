@@ -1,0 +1,2 @@
+Para levantar o container, execute:
+docker run -d --restart always -p 3000:3000 nodesrv:test”. A flag “--restart always
